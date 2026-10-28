@@ -1,0 +1,15 @@
+{
+  "audit_date": "2026-10-22",
+  "not_rerun_during_packaging": true,
+  "results": {
+    "dealer": {
+      "synthetic": true,
+      "raw_rows": 4,
+      "joined_rows": 3,
+      "units_preserved": 10,
+      "unmatched_dealers": 1,
+      "duplicate_key_rejected": true,
+      "sql_matches_pandas": true
+    }
+  }
+}

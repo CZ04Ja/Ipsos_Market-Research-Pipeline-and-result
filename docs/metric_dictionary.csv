@@ -1,0 +1,4 @@
+metric,definition,grain,unit,period,check
+units_sold,Count of units not orders,dealer-month,units,calendar month,Sum before and after join
+revenue,Revenue on one consistent tax basis,dealer-month,declared currency,calendar month,Do not mix currencies or tax bases
+conversion,Unique conversions divided by eligible leads,dealer-month,ratio,calendar month,Align denominator and cohort
