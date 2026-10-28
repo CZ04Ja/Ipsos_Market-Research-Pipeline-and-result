@@ -1,0 +1,47 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 119,
+    "sha256": "3cf8c52406b8c76da8fa1704151c37373527516f3d1b8eb458eab5b6df7ebfef"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1677,
+    "sha256": "105b4edec37b29985245eb30a28de3515b3cb8518c8b4f8c67d5b342d57aa4ed"
+  },
+  {
+    "path": "docs/DATA_POLICY.md",
+    "bytes": 1030,
+    "sha256": "ad61149bedd5fe09a5b1af161755d335b6bf7f87a9fa68b8d593f24e18e9f909"
+  },
+  {
+    "path": "docs/PROVENANCE.json",
+    "bytes": 211,
+    "sha256": "274251e81f196550567054a9657263688386ddd4782cc498da33e05d87674764"
+  },
+  {
+    "path": "docs/metric_dictionary.csv",
+    "bytes": 383,
+    "sha256": "187f8f82809d5588770d85baa3e8cf37e9850ef26f92122bb2e0b7e39e98befa"
+  },
+  {
+    "path": "reports/market_research_case_study.md",
+    "bytes": 1783,
+    "sha256": "f1f4d80236c71758dedd404da9a0b89d9a635141396893ec78ae28ce60fc3ed0"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 64,
+    "sha256": "8a9bb091acbbfffe054b7fc01d5584bf7be86caac5d15808aa5591749aaebc86"
+  },
+  {
+    "path": "results/archived_audit.json",
+    "bytes": 312,
+    "sha256": "3cc6b5483b699fa46f4fe255e1d32451bc480406a5829ffd2866227c48cc436c"
+  },
+  {
+    "path": "src/reproduce.py",
+    "bytes": 2343,
+    "sha256": "00f9c93aa403b3aded3ce8793f3d44192d9f034fd1efbb1d0abc33c0471b5da2"
+  }
+]

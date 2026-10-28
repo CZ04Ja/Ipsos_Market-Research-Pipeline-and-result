@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-10-29",
+  "result": {
+    "synthetic": true,
+    "raw_rows": 4,
+    "joined_rows": 3,
+    "units_preserved": 10,
+    "unmatched_dealers": 1,
+    "duplicate_key_rejected": true,
+    "sql_matches_pandas": true
+  }
+}
